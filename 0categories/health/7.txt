@@ -1,0 +1,57 @@
+Mistrust And Lack Of Genetic Diversity Slow Gains In Precision Medicine
+Precision medicine is the field of dreams for human health. Drugs and treatments that would take into account a person's individual DNA configurations, as well as lifestyle and environment, would presumably be better tailored to each person's needs. Still, while the goal of precision medicine is to help everybody, the current research available has a major flaw. It's largely based on the genes of people who are predominantly of white and European descent.
+
+That's an issue with implications both ethically and scientifically, says anthropologist and bioethicist Sandra Soo-Jin Lee. She heads up Columbia University Medical Center's new Division of Ethics and is leading a $2.8 million study, funded by the National Human Genome Research Institute, that will look at precision medicine research at academic medical centers around the U.S. and help researchers figure out ways to expand the diversity of the genetics data gathered.
+Lee recently wrote about ethics in personalized medicine research for Science magazine, and we spoke with her about why increasing diversity is important. The interview has been edited for length and clarity.
+Where are we currently with precision medicine research? In your article, you say it's the "early phase."
+Precision medicine depends on the accumulation of a lot of data and biospecimens (such as blood, urine, saliva and health surveys) and access to health records from individuals. Over the last couple of decades — ever since the Human Genome Project, which was completed in 2003, — we have been, as a society, investing in all kinds of data collection activities.
+Some of these have been quite large-scale ... like the All of Us program, organized by the National Institutes of Health, which aims to recruit 1 million people to share their genetics and health information for research. Other organizations have created their own bio-repositories to be used, presumably, for research that will enhance precision medicine.
+
+So we're building the infrastructure right now for the research enterprise — creating essentially these large libraries of individuals' information and samples, and making decisions about how they're going to be stored and curated. And that has triggered a lot of questions about how you ethically recruit individuals into these types of large-scale projects, when it's unclear how the samples and the data might be used in the future.
+
+What is the current diversity of the gene pool, in terms of what's being collected for research?
+Right now, our genetic resources are predominantly made up of DNA from individuals who have European ancestry; the proportion of individuals from non-European ancestry represent less than 20 percent, in most studies. So this is a bias that exists in our repositories right now.
+
+The scientific problem is that it doesn't represent the diversity that you would see across the human species. Because of the migration of human populations across the globe, African populations reflect a greater band of diversity than other populations, and yet we're not seeing this in our genetic resources.
+
+Is the lack of diversity strictly a problem in research institutions in the U.S., or is it global?
+
+That's a really good question, particularly since there is a lot of sharing of data and samples across the globe. There are certain centers of genome research globally. ... [They] tend to be in the United States, Europe, and East Asia. So I think the skew is actually global, in the sense that researchers who have been doing this type of work have been sampling mostly from individuals of European ancestry and we just don't see the kind of diversity that you would see if you were going to do it systematically across the globe.
+
+There are exceptions — some large-scale efforts in Africa, funded by federal agencies like the NIH, that are trying to address some of the skew we're seeing. But, by and large, this is a global problem.
+
+What are some of the reasons that the genetic research pool is mostly white?
+
+There's been this emphasis on historical exclusions of certain populations. But I think this framing of the issue may not address the fact that populations historically have been included — but in an unethical way.
+Examples of this could be the Tuskegee Syphilis Study, as well as the studies that were conducted with Havasupai tribal biospecimens more recently.
+
+These are cases in which populations have been enrolled in studies but have not been treated in a way that they felt was ethical. What this does is create mistrust toward the research enterprise. ...
+
+Then there are questions about whether the research, even if it produces interventions that are more targeted for individuals, will be fairly and equitably distributed to all populations. Will they be within reach of those who might not be able to afford the health care they're receiving now?
+
+In your article, you mention the recent assertions from white nationalists who are looking at ancestry to claim racial superiority. Aren't there valid reasons why people mistrust the intent and the use of medical information?
+
+Absolutely, and I think that affects precision medicine research in particular, because it requires such intrusive data collection.
+
+"Who's going to use it? What will be shared? Will I have a say if I don't feel comfortable with how it's being used in the future?" I don't think we're set up to address some of these questions.
+
+The lack of information and accountability makes individuals — particularly those that are most vulnerable in our society — very uncomfortable. And it's not unreasonable for them to be concerned.
+
+What does good, meaningful diversity and inclusion look like?
+
+I think it begins with a willingness on the part of researchers to address the role of history, and the ongoing mistrust certain groups have of the research enterprise.
+
+There's also this tendency to believe there's a sharp boundary between clinical care and research; I think we'll find that the way people are treated in the health care system spills over to their attitudes about research. So there may be points of intervention and improvement there.
+
+To be able to enlarge our framework to think about the implications for this research on group harm and group benefit will be very important.
+
+And I think we have to go beyond informed consent — a practice in which research subjects learn about the risks and benefits of participating in a study before deciding whether to sign on — as we think through oversight protections that would address participants' desire for some sense of responsibility and accountability for how their biospecimens and data are used and shared. We need to give folks a sense that their interests and concerns are being attended to, beyond the point of recruitment.
+
+Why is it important for the gene research pool to become more diverse? Is diversifying the gene pool something that only really benefits underrepresented populations?
+We're making a public investment in these resources. And the goal is to address health disparities, which are an enduring concern in our society. Health disparities are most significant among those who are underrepresented in our research databases. ... and so it becomes an important moral issue.
+
+The greater diversity would be brought in by African, Hispanic and Latin American ancestry. But it's not as if the benefits would only flow to those populations — it actually benefits everyone.
+
+If we only use the database we have right now, we run the risk of not identifying rare variants that would be identified if we had a broader spectrum of diversity in the genetic databases. ... Perhaps [there are] variants that were thought to be causal of disease but then, because of the greater diversity, you would find that perhaps that was only because it was more frequent in that particular population, and so it was a confounder.
+
+In recent studies, where scientists are using more diverse resources, they've been able to find different variants that they were not aware of, that might be important in terms of understanding disease. So there are good indications that more diversity will actually make us more precise in terms of our precision medicine.

@@ -1,0 +1,45 @@
+Threatening storms scrub SpaceX launch
+If you would like to see more articles like this please support our coverage of the space program by becoming a Spaceflight Now Member. If everyone who enjoys our website helps fund it, we can expand and improve our coverage further
+SpaceX called off a Falcon 9 countdown Wednesday due to the threat of lightning from thunderstorms along Florida’s Space Coast, pushing back the departure of a cargo mission for the International Space Station until Thursday.
+
+But weather conditions are not forecast to be much better Thursday afternoon, when SpaceX has another instantaneous launch window at 6:01:56 p.m. EDT (2201:56 GMT) to send a Dragon cargo craft toward the space station.
+
+Widespread thunderstorms streaming southwest-to-northeast across Central Florida brought rain and thunder to Cape Canaveral. Despite a bleak forecast, SpaceX proceeded with the loading of kerosene and liquid oxygen propellants into the two-stage Falcon 9 rocket, with the countdown ticking toward a planned liftoff at 6:24:30 p.m. EDT (2224:30 GMT).
+
+Two launch weather rules concerning surface electrical fields and anvil clouds were remained “no go” for launch as the countdown ticked toward zero. SpaceX aborted the countdown at T-minus 30 seconds, and teams kicked off procedures to drain the Falcon 9 of its liquid propellants and set up for another try Thursday.
+
+“Hold, hold, hold on Countdown 1,” a member of SpaceX’s launch team called out on the countdown net at T-minus 30 seconds.
+
+“Launch abort script is running,” another engineer said.
+
+“Please proceed to … scrub post-static fire procedures.”
+
+SpaceX hopes for better luck Thursday to begin the company’s 18th resupply mission to the International Space Station under a multibillion-dollar contract with NASA. The Dragon cargo capsule is packed with 5,097 pounds (2,312 kilograms) of supplies, equipment and experiments for the station’s six-person Expedition 60 crew.
+
+But the Air Force’s 45th Weather Squadron, which issues launch weather forecasts for space missions departing Cape Canaveral, expects similar conditions Thursday as the spaceport experienced Wednesday afternoon. An updated forecast released Wednesday evening predicts a 70 percent chance of weather conditions preventing launch Thursday.
+
+Like Wednesday, the chief weather concerns Thursday will be the potential for storms to violate the anvil cloud, cumulus cloud and lightning rules.
+
+For the lightning rule, the Air Force range weather team tracks lightning strikes to ensure no discharges have recently occurred within a 10-mile radius of the launch pad, or within 10 miles of the downrange flight path of the Falcon 9 rocket.
+
+The anvil cloud rules address concerns with rocket-triggered lightning.
+
+“Those are a little bit more scary to us because it may look like the weather is clear, there may not have been a lightning strike in the past 30 to 45 minutes, but if you send a rocket through that (anvil) cloud, that cloud could still be charged enough to trigger additional lightning strikes,” said Will Ulrich, the launch weather officer from the 45th Weather Squadron, during a pre-launch press conference Wednesday morning.
+
+If the launch does not get off the ground Thursday, NASA and SpaceX might have to wait up to a week for the next chance to send the Dragon cargo ship toward the International Space Station.
+
+The position of the space station in its orbit prevents the Dragon spacecraft from launching on certain days, and a Russian Progress supply ship is due to depart the orbiting complex July 29, setting the stage for the docking of a fresh Progress supply freighter July 31.
+
+It typically takes two or three days for a Dragon cargo craft to reach the space station after launch from Cape Canaveral. If the mission is able to blast off today, the SpaceX-owned cargo carrier will arrive at the space station Friday.
+
+NASA and SpaceX are looking at finding another launch opportunity amid the busy station traffic. Otherwise, the next launch attempt after Thursday could be as late as Aug. 1, officials said.
+
+The resupply mission was previously scheduled to take off July 21, but SpaceX delayed the flight three days after the repair of a liquid oxygen leak on the Falcon 9’s first stage last week put launch preparations behind schedule.
+
+The Dragon spacecraft’s cargo load includes the International Docking Adapter-3, or IDA-3, a mechanism to accommodate linkups with visiting commercial crew capsules owned by Boeing and SpaceX ferrying astronauts to and from the station. NASA paid for the third International Docking Adapter to replace the first IDA unit lost on a SpaceX launch failure in June 2015.
+
+SpaceX successfully delivered the second IDA to the station in July 2016, and SpaceX’s Crew Dragon spacecraft first used the docking mechanism earlier this year during an unpiloted test flight that docked with the orbiting research outpost.
+
+Other items on the Dragon mission include 40 mice to help researchers gauge the impacts of space travel on their immune systems, organs, muscles and bones. NASA is also flying a spacesuit inside the Dragon cargo craft’s pressurized compartment for use by astronauts on spacewalks.
+
+After a stay of about a month at the space station, the Dragon spacecraft will depart and return to Earth for a parachute-assisted splashdown in the Pacific Ocean, bringing home research specimens for analysis, and another spacesuit for refurbishment

@@ -1,0 +1,19 @@
+These two dead stars zip around each other every seven minutes
+While searching the skies for brightness and blinking, the California Institute of Technology's Zwicky Transient Facility sky survey spotted an odd pair of orbiting dead stars 8,000 light-years away.
+
+The rare discovery is the second-fastest pair ever discovered, whipping around each other at speeds reaching hundreds of kilometers per second. The two white dwarf stars complete an orbit around each other every seven minutes. It's also known as an eclipsing binary system because one of the stars repeatedly crosses in front of the other.
+A white dwarf star is the phase in a star's life cycle when it loses its outer layers and has used up its nuclear fuel. These two are very dense, similar in size to Earth. Combined, they contain a mass similar to that of our sun.
+The instrument that spots killer asteroids and star-eating black holes
+The two stars orbit so closely that they could both fit inside Saturn. The distance between them is 47,780 miles, or one-fifth the distance between the Earth and the moon.
+Their close orbit is due to the fact that the stars began as a pair. They've gone through different stages together, from ballooning into red giants to dead white dwarfs.
+Their peculiar behavior allowed astronomers to determine their size, mass and short orbital period. The details were published Wednesday in the journal Nature.
+The stars orbit each other quickly in an eclipsing pattern.
+"As the dimmer star passes in front of the brighter one, it blocks most of the light, resulting in the seven-minute blinking pattern we see in the ZTF data," said study author Kevin Burdge, a Caltech graduate student. "Matter is getting ready to spill off of the bigger and lighter white dwarf onto the smaller and heavier one, which will eventually completely subsume its lighter companion. We've seen many examples of a type of system where one white dwarf has been mostly cannibalized by its companion, but we rarely catch these systems as they are still merging like this one."
+The binary stars are also a known source of gravitational waves, otherwise known as ripples in space and time. The National Science Foundation's ground-based Laser Interferometer Gravitational-wave Observatory first detected these waves in 2015, created by the collision of two black holes.
+Astronomers have found a rare kilometer-wide asteroid with the shortest year known
+After it launches in 2034, the European Space Agency's Laser Interferometer Space Antenna will be able to detect these waves at lower frequencies.
+"These two white dwarfs are merging because they are emitting gravitational waves. Within a week of LISA turning on, it should pick up the gravitational waves from this system," said study co-author Tom Prince, the Ira S. Bowen Professor of Physics at Caltech and a senior research scientist at NASA's Jet Propulsion Laboratory. "LISA will find tens of thousands of binary systems in our galaxy like this one, but so far we only know of a few. And this binary-star system is one of the best characterized yet due to its eclipsing nature."
+The pair is intriguing to astronomers for other reasons, including star evolution. Other pairs have been known to merge into one star, or one shreds the other into pieces.
+One of the stars is hotter than the other, clocking in at 50,000 degrees Celsius, nine times hotter than our sun. The researchers believe that this star is pulling material away from the other, which heats it up.
+But this process usually creates X-rays, and none is observed in this system.
+In the meantime, the duo will keep putting on a show for the next hundred thousand years

@@ -1,0 +1,30 @@
+New space discovery sheds light on how planets form
+Researchers at Dartmouth College have discovered a planet orbiting one of the brightest young stars known, according to a study published in the journal The Astrophysical Journal Letters. Aged at approximately 45 million years old, the star and its planet could provide valuable information on how planetary bodies form.
+
+Known as an exoplanet because it is outside of the solar system, the planet was found as part of NASA's Transiting Exoplanet Survey Satellite (TESS) mission. While thousands of exoplanet discoveries have already been made, only a handful have been discovered circling relatively young stars.
+
+The exoplanet observed in the Dartmouth research—known as DS Tuc Ab—can be considered a "pre-teen" in planetary time. The planet is no longer growing, but, because of its young age, it is still undergoing rapid changes like losing atmospheric gas as a result of the radiation coming from its host star.
+
+Planets can take millions or billions of years to reach maturity. Since that process cannot be observed in real time, researchers are searching for planets around young stars to catch the process in action and learn how planets form and evolve.
+
+"One of the overall goals of astronomy is understanding the big picture of how we got here, how solar systems and galaxies take shape and why," said Elisabeth Newton, an assistant professor of physics and astronomy at Dartmouth College. "By finding solar systems that are different from our own—especially young ones—we can hope to learn why Earth and our own solar system evolved in the ways that they did."
+
+DS Tuc Ab is about six times the size of Earth, between the sizes of Neptune and Saturn. Given the size, it likely has a composition similar to that of the giant planets in our solar system. The exoplanet has two suns and makes one full orbit around its main star in just eight days.
+
+The planet was first observed by NASA satellite in November of 2018 and was confirmed by the Dartmouth team in March using data from NASA's Spitzer Space Telescope and other ground- and space-based observatories, such as the South African Large Telescope (SALT).
+
+The planet is about 150 light years away from Earth. Each light year is a distance of just under 6 trillion miles.
+
+"We were really excited when we confirmed this discovery because the planet orbits such a bright, well-known young star. Our whole team worked together to learn everything we could about this solar system," said Newton, who led a team of scientists from the University of North Carolina at Chapel Hill, the University Texas at Austin, and other research centers from around the world.
+
+NASA's TESS mission is looking for planets around nearby stars using the transit method. The approach detects when light is blocked as a planet passes between Earth and the planet's host star. Researchers then review observations from other telescopes to confirm the discovery.
+
+"The star's brightness lets us study the planet in detail because the more photons you have the better statistics you have. A discovery of this sort with such a unique age and an unusual planet size would not be possible without TESS," said Newton.
+
+Planets are larger when first formed and are thought to become smaller over time as they cool and lose atmosphere. Because this planet is still forming, the team hopes to detect atmosphere evaporation in action. Understanding this process could help researchers predict what might happen to the exoplanet over the next billions of years and can also be used to understand how atmospheric escape might have affected older planets, including Earth.
+
+"We hope that by seeing this planet's atmosphere, we can provide a snapshot of what planets look like at a young age," said Newton.
+
+The TESS satellite was launched on April 18, 2018. According to NASA, the TESS mission will survey 200,000 of the brightest stars near the sun to search for transiting exoplanets, including those that could support life.
+
+While the research team knows the size of DS Tuc Ab, the overall mass is not known. This limits what the team can currently tell about planet's density and composition. Thanks to the star's brightness, future investigations could measure the planet's mass or determine what molecules are present in its atmosphere

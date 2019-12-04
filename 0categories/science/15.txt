@@ -1,0 +1,28 @@
+Fueling of NASA's Mars 2020 Rover Power System Begins
+NASA's Associate Administrator for the Science Mission Directorate, Thomas Zurbuchen, has given the go-ahead to begin fueling the Mars 2020 rover's Multi-Mission Radioisotope Thermoelectric Generator, or MMRTG. The generator will power the rover and help keep it warm while exploring the Red Planet.
+
+"The progression of the Mars 2020 rover project is on schedule," said Zurbuchen. "The decision to begin fueling the MMRTG is another important milestone in keeping to our timetable for a July 2020 launch."
+
+Essentially a nuclear battery, an MMRTG can provide about 110 watts of electrical power to a spacecraft and its science instruments at the beginning of a mission. The excess heat from the generator can also serve to keep spacecraft systems warm in cold environments. In all, 27 past U.S. space missions have used radioisotope power - from the Viking missions on Mars to the Voyager spacecraft entering interplanetary space to, most recently, the Curiosity rover on Mars and the New Horizons spacecraft that sailed past Pluto.
+
+MMRTGs work by converting heat from the natural decay of radioisotope materials into electricity. The generators consist of two major elements: a heat source that contains plutonium-238 (Pu-238) and thermocouples that convert the plutonium's decay heat energy to electricity. The process of loading the heat source into the MMRTG, which the Department of Energy (DOE) manufactured, is timed to a mission's launch date. The Mars 2020 fueling process has been initiated thanks to the continued progress constructing the rover and the spacecraft that will get it there.
+
+"We are advancing on all fronts - including completion of the cruise stage that will guide us to Mars and the sky crane descent landing system that will gently lower us to the surface," said Project Manager John McNamee of NASA's Jet Propulsion Laboratory, which manages the mission in Pasadena, California. "And the rover is not only looking more and more like a rover each day, it's acting like one."
+
+With the exception of incorporating the Adaptive Caching Assembly, with its seven motors and more than 3,000 parts, work on the Mars 2020 rover's interior is 100% complete. On the exterior, the most visible additions have been the remote sensing mast, the mobility suspension system, the main robotic arm and the rover's high-gain antenna. The external components of the Mastcam-Z and SuperCam science instruments have been installed on the high perch of the remote sensing mast, and the PIXL and SHERLOC instruments' turret assemblies have been added onto the end of the robotic arm.
+
+"Our Mars 2020 rover is on a historic mission - the first leg of a round trip to Mars," said Zurbuchen. "We want everyone to come along for this extraordinary voyage, whether it's by watching the rover's final assembly online, literally sending your name to go to Mars or following NASA's updates on the mission."
+
+Mars 2020 will launch from Cape Canaveral Air Force Station in Florida in July 2020 and land at Jezero Crater on Feb. 18, 2021. It will be the first spacecraft in the history of planetary exploration with the ability to accurately retarget its point of touchdown during the landing sequence - technology that could prove essential to future crewed missions to the Moon and Mars.
+
+NASA will use Mars 2020 and other missions,including those to the Moon,to prepare for human exploration of the Red Planet. The agency plans to establish a sustained human presence on and around the Moon by 2028 through NASA's Artemis lunar exploration plans.
+
+JPL is building and will manage operations of the Mars 2020 rover for the NASA Science Mission Directorate at the agency's headquarters in Washington.
+
+The DOE's Office of Nuclear Energy develops, manufactures, tests and delivers radioisotope power systems for space exploration and national security missions and maintains responsibility for nuclear safety throughout all aspects of the missions.
+
+NASA's Radioisotope Power Systems program, managed by NASA Glenn Research Center in Cleveland, manages and makes strategic investments in RPS activities, working with the DOE, for heat source production and technology development.
+
+JPL is part of the Radioisotope Power Systems program and manages several missions that utilize radioisotope power, including the Mars Curiosity rover and the upcoming Mars 2020 rover.
+
+To submit your name to travel to Mars with NASA's 2020 mission and obtain a souvenir boarding pass to the Red Planet

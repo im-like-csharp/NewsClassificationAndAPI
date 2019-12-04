@@ -1,0 +1,28 @@
+Harnessing the power of microbes for mining in space
+For centuries, people have done the hard work of mining useful minerals and metals from solid rock. Then, scientists learned how to harness the power of tiny microbes to do some of this labor. This process, called biomining, has become common on Earth.
+
+As humans plan expeditions to places such as the Moon and Mars, biomining offers a way to obtain needed materials on other planetary bodies rather than bringing them from Earth. This approach is called in-situ resource utilization. However, microbes and rocks interact differently outside of Earth's gravity, potentially affecting output from extraterrestrial biomining.
+
+A new investigation on the International Space Station represents the first study of how microbes grow on and alter planetary rocks in microgravity and simulated Martian gravity. The study, BioRock, also is the first test of extraterrestrial biomining and the first use of a prototype miniature mining reactor in space.
+
+"We're studying three types of microbes, giving us the first comparison between behaviors of different microbes in the space environment," said principal investigator Charles Cockell, professor at the UK Centre for Astrobiology, University of Edinburgh. Scientists know very little about how microgravity affects microbe and mineral interactions, but previous research demonstrates that the attachment of microbes to surfaces, or formation of biofilms, occurs differently in space.
+
+A microbial biofilm growing on basalt rock. Credit: Rosa Santomartino, UK Centre for Astrobiology/University of Edinburgh
+In general, biofilms increase, grow thicker and show particular shapes and structures in microgravity. Investigators expect to see similar behavior by the microbes in the BioRock investigation.
+
+"For the investigation, we are using basalt rock that is naturally very vesicular, or contains lots of spaces, to see how the bacteria interact within these cavities in microgravity," said Rosa Santomartino, a postdoctoral scientist at the Cockell lab investigating the growth of the microbes. Back on Earth, investigators plan to examine how the microbes grew across and into the rock and to compare the three types of microbes.
+
+They also will look at the elements leached into the fluid around the rock, and examine how well the different microbes extracted more than 20 different elements from the rocks. The three microbes include one isolated from desert crusts in the western United States Colorado Plateau, one provided by the German Aerospace Center, and another known for its resistance to heavy metals provided by the Belgium Nuclear Research Center.
+
+"The BioRock experiment starts putting the pieces of the puzzle together," Cockell added. "Understanding how microbes interact, grow and extract elements from a rock surface in microgravity and simulated Mars gravity will tell us, for the first time, if low gravity affects the ability of microorganisms to attach to rock surfaces and perform biomining. In other words, whether extraterrestrial mining is possible."
+
+Six of the biomining reactors sent to the space station for the BioRock investigation.
+The results should provide qualitative and quantitative comparison of bacterial and rock interactions taking place at terrestrial gravity, simulated Martian gravity, and microgravity levels. For example, the absence of thermal convection in microgravity could restrict the supply of food and oxygen to bacteria in rocky environments and suppress their growth.
+
+"We hope to gain insights into how microbes grow in space and how we might use them in human exploration and settlement of space, from mining to turning rocks into soils on the Moon and Mars," said Cockell. Microbe-rock interactions can turn rock into soils and explorers might one day use them to transform regolith—the layer of dusty, fragmented debris covering the surface of the Moon, Mars, and asteroids—into soils for growing plants.
+
+Next, the investigators will conduct additional experiments with different microbes and materials to further refine the use of microbes for in-situ resource use.
+
+"Microbes are everywhere—in our food, our homes, and our industrial processes—and they do hugely important things in our everyday life," Cockell said. "As we move into space, we can harness microbes to make our lives easier and improve the success of space settlements. BioRock is about forming a new space-faring alliance with the microbial world—using microbes to advance a permanent human presence in space."
+
+And letting the tiny organisms do some of the hard work

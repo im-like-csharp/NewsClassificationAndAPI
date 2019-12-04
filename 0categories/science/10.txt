@@ -1,0 +1,17 @@
+Air Force experimental satellite billed as the ‘largest unmanned structure in space’
+The DSX satellite will collect data that will be used to study the radiation environment in space.
+WASHINGTON — An Air Force satellite spanning nearly the length of a football field was successfully deployed on July 12, the Air Force Research Laboratory announced on Wednesday.
+
+AFRL’s demonstration and science experiments, or DSX, will collect data that will be used to study the radiation environment in space. DSX was the largest of the 24 satellites that a SpaceX Falcon Heavy rocket launched on June 25 from Cape Canaveral, Florida. The vehicle delivered 24 satellites into four different orbits.
+
+DSX was designed and built at AFRL’s Space Vehicles Directorate at Kirtland Air Force Base, New Mexico.
+
+Col. Eric Felt, director of the space vehicles directorate, said the satellite is conducting new research to “advance understanding of the Van Allen radiation belts and their effect on spacecraft components.” In a news release, Felt said DSX will conduct on-orbit experiments for at least a year.
+
+“The Air Force is interested in operating satellites in the region where DSX is collecting data,” said James McCollough, DSX principal investigator. This experiment will help study the environment, he explained. “This is a region where Very Low Frequency radio waves strongly interact with electrons that are hazardous to spacecraft.” DSX can actively transmit VLF signals to study their influence on the electron population, he said. “This will allow a more thorough understanding of a key process governing the radiation environment.”
+
+Lt. Col. James Caldwell, DSX mission director, said the satellite is currently in “launch and early operations” where an operations team works with scientists and engineers to perform checkouts on various satellite components, deploy the antenna booms and prepare for data collection within the Van Allen radiation belts.
+
+On July 12, the longer pair of the 80-meter antenna booms (about 262 feet) was successfully deployed as the largest unmanned structure ever in space, said Jeffrey Christmas, DSX program manager. He explained that the long antenna allows DSX to transmit the VLF radio waves that will be used in  experiments.
+
+Felt said AFRL plans to share the results of the research with the public, through its website and social media platforms

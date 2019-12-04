@@ -1,0 +1,20 @@
+Immune therapy takes a 'BiTE' out of brain cancer
+Building on their research showing that an exciting new form of immunotherapy for cancer has activity in patients with glioblastoma, the most common and most deadly form of brain cancer, Massachusetts General Hospital (MGH) investigators have created a new method that could make immune therapy more effective again brain tumors and expand its use against other types of solid tumors. Their study is published in the journal Nature Biotechnology.
+
+The treatment, known as chimeric antigen receptor T-cell (CAR T) therapy, involves collecting and genetically modifying a patient's immune-fighting T cells to recognize specific targets (antigens) on the surface of tumors, and then returning them to the patient. Two CAR T cell products have been approved by the FDA for treatment of non-Hodgkin lymphoma and acute lymphoblastic leukemia, respectively cancers of the lymphatic system and blood.
+
+But solid tumors such as glioblastoma are notoriously difficult to treat with conventional cancer drugs, because most of the drugs have molecules that are too large to cross the blood-brain barrier, and immunotherapy has its own problems in this area, explains principal investigator Marcela V. Maus, MD, Ph.D., director of cellular immunotherapy at the MGH Cancer Center.
+
+"We previously made CAR T cells for glioblastoma, and one of the challenges of glioblastoma is that not all of the tumor cells express the target that a T cell can go after," says Maus, who is also an assistant professor of medicine at Harvard Medical School (HMS).
+
+The target they were aiming for is epidermal growth factor receptor variant III (EGFRvIII), a mutated cancer-causing protein that is present on the surface of many but not all glioblastomas.
+
+So to boost the effectiveness of CAR T cells, they decided to target a second antigen, the naturally occurring or "wild type" of EGFR. But because EGFR is present in many cells in the body, drugs targeting the protein can cause serious side effects. To overcome this toxicity problem, Maus and colleagues crafted a CAR T cell that can be delivered into the cerebrospinal fluid at the base of the brain. When it gets into the brain, the CAR T then secretes a second type of immunotherapy, called a bi-specific T-cell engager, or "BiTE." BiTEs are antibodies that direct cell-killing T cells to a specific target, somewhat akin to a homing mechanism on a so-called "smart bomb."
+
+Although they are smaller than antibody-based drugs, BiTEs are still too large to cross the blood brain barrier if given intravenously, so the BiTE-secreting CAR T construct they crafted "can have a local tumor effect by targeting the second antigen, and that's a way of overcoming this tumor heterogeneity and being able to target two things at once. But because it's produced on the other side of the blood brain barrier and in small quantities, it doesn't cause the toxicities to other organs," Maus says.
+
+When they tested it in models of human glioblastoma, they found that the modified BiTE-secreting CAR Ts eliminated about 80% of the tumors.
+
+The technique holds promise for treating other solid tumors as well, says lead author Bryan D. Choi, MD, from the department of Neurosurgery at MGH.
+
+The biggest barrier they still face in their efforts to bring the research into human clinical trials is financial support, the investigators say

@@ -1,0 +1,19 @@
+Meet the super-speedy white dwarf binary system that's going to grav-wave our world
+Astronomers have discovered the fastest-known eclipsing white dwarf pair yet, with the dead stars whizzing around each other every 6.91 minutes, according to a Nature paper published on Wednesday.
+
+The binary system known as ZTF J1539+5027 was spotted by the Zwicky Transient Facility (which put the ZTF into its name) astronomical survey using a 576MP camera installed on the Samuel Oschin Telescope at the Palomar Observatory in San Diego, California. J1539, for short, is made up of two white dwarf stars that are roughly about the size of Earth. One is slightly smaller and less bright than the other, but despite their small sizes, they both pack enough mass equal to the Sun.
+
+Locked in an intense dance, the pair are circling around each other with the space in between them getting smaller and smaller and they will spiral into one another. The spectacle is expected to send massive gravitational waves rippling through spacetime, but don't hold your breath as they still have another 200,000 years to go.
+
+"The reason this is all so interesting is we really don't know what happens when these things merge, and so finding some systems like this right before they merge tells us a lot about the likely outcomes," Kevin Burdge, first author of the study and a graduate student at the California Institute of Technology, told The Register.
+
+"Also, finding one only 200,000 years or so from merger means there are probably more out there even closer to merger, quite possibly even one that will merge within our lifetimes."
+
+J1539 is actually emitting gravitational waves right now, but they can't be detected by the LIGO (Laser Interferometer Gravitational-Observatory) observatory because the frequencies emitted are too low. That job will be left to LISA (Laser Interferometer Space Antenna), a gravitational wave observatory that will be launched into space in 2034.
+Scientists believe white dwarf binary stars are actually pretty common, but finding one revolving around each other at such high speeds is very rare. Before J1539, the fastest eclipsing white dwarf binary was SDSS J0651+2844 with an orbital period of 12.75 minutes.
+
+Burdge said he used algorithms sped up by GPUs to comb through gravitational wave source data to find the eclipsing binary system.
+
+"This pair really stuck out because the signal repeats so often and in such a predictable way," he said.
+
+"People haven't been able to systematically search for things that change on minute-time scales before. ZTF lets us do this because its camera is huge and it can easily take pictures across the sky and then come back and repeat

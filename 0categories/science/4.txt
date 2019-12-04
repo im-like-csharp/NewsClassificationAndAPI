@@ -1,0 +1,29 @@
+Microrobots show promise for treating tumors
+Targeting medical treatment to an ailing body part is a practice as old as medicine itself. A Band-Aid is placed on a skinned knee. Drops go into itchy eyes. A broken arm goes into a cast.
+
+But often what ails us is inside the body and is not so easy to reach. In such cases, a treatment like surgery or chemotherapy might be called for. A pair of researchers in Caltech's Division of Engineering and Applied Science are working on an entirely new form of treatment—microrobots that can deliver drugs to specific spots inside the body while being monitored and controlled from outside the body.
+
+"The microrobot concept is really cool because you can get micromachinery right to where you need it," says Lihong Wang, Caltech's Bren Professor of Medical Engineering and Electrical Engineering. "It could be drug delivery, or a predesigned microsurgery."
+
+The microrobots are a joint research project of Wang and Wei Gao, assistant professor of medical engineering, and are intended for treating tumors in the digestive tract.
+
+The microrobots consist of microscopic spheres of magnesium metal coated with thin layers of gold and parylene, a polymer that resists digestion. The layers leave a circular portion of the sphere uncovered, kind of like a porthole. The uncovered portion of the magnesium reacts with the fluids in the digestive tract, generating small bubbles. The stream of bubbles acts like a jet and propels the sphere forward until it collides with nearby tissue.
+
+On their own, magnesium spherical microrobots that can zoom around might be interesting, but they are not especially useful. To turn them from a novelty into a vehicle for delivering medication, Wang and Gao made some modifications to them.
+
+First, a layer of medication is sandwiched between an individual microsphere and its parylene coat. Then, to protect the microrobots from the harsh environment of the stomach, they are enveloped in microcapsules made of paraffin wax
+At this stage, the spheres are capable of carrying drugs, but still lack the crucial ability to deliver them to a desired location. For that, Wang and Gao use photoacoustic computed tomography (PACT), a technique developed by Wang that uses pulses of infrared laser light.
+
+The infrared laser light diffuses through tissues and is absorbed by oxygen-carrying hemoglobin molecules in red blood cells, causing the molecules to vibrate ultrasonically. Those ultrasonic vibrations are picked up by sensors pressed against the skin. The data from those sensors is used to create images of the internal structures of the body.
+
+Previously, Wang has shown that variations of PACT can be used to identify breast tumors, or even individual cancer cells. With respect to the microrobots, the technique has two jobs. The first is imaging. By using PACT, the researchers can find tumors in the digestive tract and also track the location of the microrobots, which show up strongly in the PACT images. Once the microrobots arrive in the vicinity of the tumor, a high-power continuous-wave near-infrared laser beam is used to activate them. Because the microrobots absorb the infrared light so strongly, they briefly heat up, melting the wax capsule surrounding them, and exposing them to digestive fluids. At that point, the microrobots' bubble jets activate, and the microrobots begin swarming. The jets are not steerable, so the technique is sort of a shotgun approach—the microrobots will not all hit the targeted area, but many will. When they do, they stick to the surface and begin releasing their medication payload.
+
+"These micromotors can penetrate the mucus of the digestive tract and stay there for a long time. This improves medicine delivery," Gao says. "But because they're made of magnesium, they're biocompatible and biodegradable."
+
+Tests in animal models show that the microrobots perform as intended, but Gao and Wang say they are planning to continue pushing the research forward.
+
+"We demonstrated the concept that you can reach the diseased area and activate the microrobots," Gao says. "The next step is evaluating the therapeutic effect of them."
+
+Gao also says he would like to develop variations of the microrobots that can operate in other parts of the body, and with different types of propulsion systems.
+
+Wang says his goal is to improve how his PACT system interacts with the microrobots. The infrared laser light it uses has some difficulty reaching into deeper parts of the body, but he says it should be possible to develop a system that can penetrate further
